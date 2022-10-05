@@ -1,6 +1,6 @@
 This is basically a script to automatically connect to a specified wifi network, activated using a macro.
 
-The macro is enabled by Autohotkey, with the actual connection script run in Python.
+The macro uses Autohotkey, with the actual connection script run in Python.
 
 https://www.hanselman.com/blog/how-to-connect-to-a-wireless-wifi-network-from-the-command-line-in-windows-7
 
@@ -11,4 +11,5 @@ The edited code is between `;wificonn_start` and `;wificonn_end`
 The default key combination is `Win+Shift+F3`
 
 # Requirements
-winotify
+[winotify](https://pypi.org/project/winotify/)
+    pip install winotify
