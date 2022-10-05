@@ -12,4 +12,5 @@ The default key combination is `Win+Shift+F3`
 
 # Requirements
 [winotify](https://pypi.org/project/winotify/)
+
     pip install winotify
