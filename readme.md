@@ -1,4 +1,4 @@
-This is basically a script to automatically connect to a specified wifi network, activated using a macro.
+This is a simple script to automatically connect to a specified wifi network, activated using a macro.
 
 The macro uses Autohotkey, with the actual connection script run in Python.
 
